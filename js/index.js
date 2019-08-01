@@ -120,8 +120,6 @@ class View {
         this.todoList.append(li)
       })
     }
-
-    console.log(todos)
   }
 
   bindEvents(controller) {
